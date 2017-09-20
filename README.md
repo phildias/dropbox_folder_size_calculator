@@ -5,15 +5,15 @@ Look no further, because you've come to the right place!!!!
 
 This snippet of code will tell you exactly how much data each and every folder contains! 
 
-It's also worth noting that this code is compatible with Drobbox's API v2. 
+This code is compatible with Drobbox's API v2. 
 
-Please note that this code is quite primitive and contains some pretty bad coding practices. But it gets the job done! 
+Please note that this code is quite primitive and contains some pretty bad coding practices, but it gets the job done! 
 
 ## Getting started
-- Step 1: Download the Dropbox SDK, which is available [here](https://www.dropbox.com/developers/documentation/python#install)
-- Step 2: Create a new app on your [Dropbox App Console](https://www.dropbox.com/developers/apps)
-- Step 3: Inside that app, generate an access token. [Click here](https://blogs.dropbox.com/developers/2014/05/generate-an-access-token-for-your-own-account/) for more details.
-- Step 4: Copy the access token into your copy of this script where it says "XXX"
+- Step 1: Download the Dropbox SDK, which is available [here](https://www.dropbox.com/developers/documentation/python#install).
+- Step 2: Create a new app on your [Dropbox App Console](https://www.dropbox.com/developers/apps).
+- Step 3: Inside that app, generate an access token and copy it to your clipboard. [Click here](https://blogs.dropbox.com/developers/2014/05/generate-an-access-token-for-your-own-account/) for more details.
+- Step 4: Paste the access token into your the script where it says "XXX".
 - Step 5: Run the script!
 
 ## What does the script actually do?
