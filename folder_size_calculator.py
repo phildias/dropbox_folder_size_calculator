@@ -1,5 +1,4 @@
 import dropbox
-import numpy as np
 import pandas as pd
 
 access_token = 'INSERT_YOUR_TOKEN_HERE'
