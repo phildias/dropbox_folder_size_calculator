@@ -10,9 +10,9 @@ This code is compatible with Drobbox's API v2.
 Please note that this code is quite primitive and contains some pretty bad coding practices, but it gets the job done! 
 
 ## Getting started
-- Step 1: Download and install the Dropbox SDK. Instructions are available [here](https://www.dropbox.com/developers/documentation/python#install).
-- Step 2: Create a new app on your Dropbox App Console. Instructions are available [here](https://www.dropbox.com/developers/apps).
-- Step 3: Inside that new app, generate an access token and copy it to your clipboard. [Click here](https://blogs.dropbox.com/developers/2014/05/generate-an-access-token-for-your-own-account/) for more details on this step.
+- Step 1: Download and install the Dropbox SDK. Instructions available [here](https://www.dropbox.com/developers/documentation/python#install).
+- Step 2: Create a new app on your Dropbox App Console. Instructions available [here](https://www.dropbox.com/developers/apps).
+- Step 3: Inside that new app, generate an access token and copy it to your clipboard. Instructions available [here](https://blogs.dropbox.com/developers/2014/05/generate-an-access-token-for-your-own-account/).
 - Step 4: Paste the access token into your script where it says 'INSERT_YOUR_TOKEN_HERE'.
 - Step 5: Run the script!
 
