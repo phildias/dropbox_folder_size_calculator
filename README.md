@@ -1,8 +1,7 @@
 # Dropbox Folder Size Calculator
-This is a snippet of Python 2.7 code that calculates the size of each of your folders in Dropbox.
-
-Need to clear up some space on your Dropbox and can't figure out what folder you should prioritize? 
-Say no more! This snippet of code will tell you exactly how much data each folder contains!
+Do you need to clear up some space on your Dropbox but can't figure out what folder you should prioritize? 
+Look no further, because you've come to the right place!!!! 
+This snippet of code will tell you exactly how much data each and every folder contains!
 
 It's also worth noting that this code is compatible with Drobbox's API v2.
 
