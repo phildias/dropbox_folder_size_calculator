@@ -13,7 +13,7 @@ Please note that this code is quite primitive and contains some pretty bad codin
 - Step 1: Download the Dropbox SDK, which is available [here](https://www.dropbox.com/developers/documentation/python#install).
 - Step 2: Create a new app on your [Dropbox App Console](https://www.dropbox.com/developers/apps).
 - Step 3: Inside that app, generate an access token and copy it to your clipboard. [Click here](https://blogs.dropbox.com/developers/2014/05/generate-an-access-token-for-your-own-account/) for more details.
-- Step 4: Paste the access token into your the script where it says "XXX".
+- Step 4: Paste the access token into your script where it says 'INSERT_YOUR_TOKEN_HERE'.
 - Step 5: Run the script!
 
 ## What does the script actually do?
